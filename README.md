@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GadzhievViewTool::Renderer.copyright 'Gusein Gadzhiev', 'All rights reserved'
+```
 
 ## Development
 
